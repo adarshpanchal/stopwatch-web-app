@@ -4,7 +4,7 @@ A simple and responsive stopwatch built using HTML, CSS, and JavaScript.
 
 ---
 ## 📸 Preview
-![Preview](screenshot.jpg)
+![Preview](Screenshot.png)
 ## 🚀 Features
 
 * Start / Stop / Reset functionality
